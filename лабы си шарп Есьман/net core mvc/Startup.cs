@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 
-namespace Kolnookiy_Lab_8
+namespace WebApplication2
 {
     public class Startup
     {
