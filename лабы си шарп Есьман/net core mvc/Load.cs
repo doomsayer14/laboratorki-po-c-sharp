@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Text;
-using Kolnookiy_Lab_8.Models;
+using vyesman.Models;
 
-namespace Kolnookiy_Lab_8
+namespace WebApplication2
 {
     public class Load
     {
